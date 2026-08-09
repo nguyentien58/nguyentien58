@@ -1,1 +1,1 @@
-I am looking for data scientist jobs
+A software engineering student with a passion for becoming a data scientist
