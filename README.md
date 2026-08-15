@@ -1,11 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=180&section=header&text=Welcome%20to%20my%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20Software%20Engineering%20Student%20passionate%20about%20Machine%20Learning%20and%20Deep%20Learning&descAlignY=58&descSize=13"/>
-
-<br/>
-
 <a href="https://github.com/Clyde">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=1500&pause=400&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi+there%2C+I'm+Clyde+%F0%9F%91%8B;A+Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3200&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=90&lines=Hi+there%2C+I'm+Clyde;Aspiring+to+become+an+AI+Engineer" alt="Typing SVG" />
 </a>
 
 </div>
@@ -42,19 +38,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyentien58&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyentien58&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentien58&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<br/>
-
 ## 📬 Contact me via
 
 <p align="center">
@@ -62,5 +45,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer"/>
