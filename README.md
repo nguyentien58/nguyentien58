@@ -5,12 +5,8 @@
 <br/>
 
 <a href="https://github.com/Clyde">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi+there%2C+I'm+Clyde+%F0%9F%91%8B;A+Software+Engineering+Student;Passionate+about+AI+Engineering+%F0%9F%A4%96;Especially+Computer+Vision+%F0%9F%94%8D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=1500&pause=400&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Hi+there%2C+I'm+Clyde+%F0%9F%91%8B;A+Software+Engineering+Student;Passionate+about+AI+Engineering+%F0%9F%A4%96;Especially+Computer+Vision+%F0%9F%94%8D" alt="Typing SVG" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="profile views"/>
 
 </div>
 
