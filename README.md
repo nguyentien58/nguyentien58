@@ -1,9 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Clyde">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3200&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Hi+there%2C+I'm+Clyde;Aspiring+to+become+an+AI+Engineer" alt="Typing SVG" />
-</a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&pause=1000&color=7D1FC8&center=true&vCenter=true&repeat=false&width=543&lines=Hi+there%2C+I'm+Clyde;Sofware+Engineering+Student;I'm+passionate+about++Computer+Vision" alt="Typing SVG" /></a>
 </div>
 
 <br/>
@@ -34,6 +31,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <br/>
